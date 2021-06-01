@@ -60,7 +60,7 @@ const memmoryStorage = new MemoryStorage();
 
 const conversationState = new ConversationState(memmoryStorage);
 const userState = new UserState(MemoryStorage)
-// Create the main dialog.
+// Create the main dialog - in our case RR Bot
 const rrbot = new RRBOT(conversationState,userState);
 
 // Listen for incoming requests.
