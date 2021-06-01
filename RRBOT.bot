@@ -1,0 +1,18 @@
+{
+    "name": "RRBOT",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "9f1e6f10-bd4f-11eb-b5b2-036488c1e1d3",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "D:\\BOTS\\SampleBOT\\RRBOT.bot",
+    "overrides": null
+}
